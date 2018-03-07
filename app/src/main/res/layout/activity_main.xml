@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.hushengyou.upm_project.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center">
+
+        <LinearLayout
+            android:layout_width="300dp"
+            android:layout_height="280dp"
+            android:orientation="vertical"
+            android:gravity="center">
+
+
+            <Button
+                android:layout_width="240dp"
+                android:layout_height="70dp"
+                android:background="@drawable/button_shape"
+                android:text="GUIDE"
+                android:textColor="#ffffff"
+                android:textSize="20sp"
+                android:id="@+id/btu_guide"
+                android:alpha="0.5"/>
+
+
+
+            <Button
+                android:layout_width="240dp"
+                android:layout_height="70dp"
+                android:layout_marginTop="60dp"
+                android:background="@drawable/button_shape"
+                android:text="NOTE"
+                android:textColor="#ffffff"
+                android:textSize="20sp"
+                android:id="@+id/btu_note"
+                android:alpha="0.5"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

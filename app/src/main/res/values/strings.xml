@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UPM_Project</string>
+    <string name="title_activity_formal">FormalActivity</string>
+    <string name="title_activity_formal_item">FormalItemActivity</string>
+    <string name="title_activity_formal_item_add">FormalItemAdd</string>
+    <string name="title_activity_guide">Guide</string>
+    <string name="title_activity_register">register</string>
+    <string name="title_activity_vis">VISA</string>
+    <string name="title_activity_studentcard">studentcard</string>
+    <string name="title_activity_gymcard">gymcard</string>
+
+</resources>

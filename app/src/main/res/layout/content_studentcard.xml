@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.hushengyou.upm_project.guides.studentcard"
+    tools:showIn="@layout/activity_studentcard">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:orientation="horizontal">
+
+            <Button
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_gravity="left"
+                android:layout_marginTop="5dp"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="5dp"
+                android:background="@drawable/homepage"
+                android:id="@+id/btu_homepage"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:gravity="center"
+                android:layout_centerHorizontal="true"
+                android:textSize="22sp"
+                android:text="student card"
+                android:textStyle="bold"/>
+
+        </RelativeLayout>
+
+        <TextView
+            android:layout_marginTop="50dp"
+            android:layout_width="300dp"
+            android:layout_height="140dp"
+            android:textSize="20sp"
+            android:text="go to ETSI SISTEMAS INFORMATICOS and find teacher Mavi and tell she that you want a student card.Shw will give you the card maybe a week later.">
+
+        </TextView>
+
+        <ImageView
+            android:layout_marginTop="10dp"
+            android:layout_width="240dp"
+            android:layout_height="240dp"
+            android:src="@drawable/school"
+            />
+
+        <Button
+            android:visibility="invisible"
+            android:layout_marginTop="22dp"
+            android:layout_width="130dp"
+            android:layout_height="50dp"
+            android:textColor="#ffffff"
+            android:background="@drawable/button_shape"
+            android:text="NEXT"
+            android:textSize="20sp"
+            android:alpha="0.5"/>
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

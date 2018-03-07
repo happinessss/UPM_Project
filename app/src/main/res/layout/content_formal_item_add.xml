@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.hushengyou.upm_project.FormalItemAdd"
+    tools:showIn="@layout/activity_formal_item_add">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_marginTop="15dp"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="60dp"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:layout_width="80dp"
+            android:layout_height="match_parent"
+            android:text="title"
+            android:textSize="26sp"
+            android:gravity="center_vertical"/>
+
+        <EditText
+            android:id="@+id/et_formal_add_title"
+            android:layout_width="220dp"
+            android:layout_height="50dp"
+            android:background="@drawable/edittext"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:gravity="left|center_vertical"
+            android:textSize="26sp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="15dp"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="80dp"
+            android:layout_height="match_parent"
+            android:text="detail"
+            android:textSize="26sp"
+            android:gravity="top"
+            />
+
+        <EditText
+            android:id="@+id/et_formal_add_detail"
+            android:layout_width="220dp"
+            android:layout_height="wrap_content"
+            android:gravity="top"
+            android:textSize="26sp"
+            android:minLines="6"
+            android:maxLines="18"
+            android:scrollbars="vertical"
+            android:inputType="textMultiLine"
+            android:padding="5dp"
+            android:background="@drawable/edittext"/>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_marginTop="15dp"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical">
+
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="80dp"
+            android:text="add photo"
+            android:textColor="#ffffff"
+            android:textSize="20sp"
+            android:background="@drawable/button_shape"
+            android:id="@+id/btu_formal_add_photo"/>
+
+        
+        <ImageView
+            android:layout_width="170dp"
+            android:layout_marginLeft="40dp"
+            android:layout_height="100dp"
+            android:id="@+id/iv_formal_add_photo"/>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btu_formal_add_done"
+        android:layout_marginTop="20dp"
+        android:layout_width="200dp"
+        android:layout_height="60dp"
+        android:gravity="center"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/button_shape"
+        android:textSize="20sp"
+        android:text="done"
+        android:textColor="#ffffff"
+
+        />
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>
