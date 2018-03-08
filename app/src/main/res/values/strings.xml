@@ -1,12 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">UPM_Project</string>
-    <string name="title_activity_formal">FormalActivity</string>
-    <string name="title_activity_formal_item">FormalItemActivity</string>
-    <string name="title_activity_formal_item_add">FormalItemAdd</string>
-    <string name="title_activity_guide">Guide</string>
-    <string name="title_activity_register">register</string>
-    <string name="title_activity_vis">VISA</string>
-    <string name="title_activity_studentcard">studentcard</string>
-    <string name="title_activity_gymcard">gymcard</string>
-
+    <string name="guide">guide</string>
+    <string name="note">note</string>
+    <string name="register">register</string>
+    <string name="VISA">VISA</string>
+    <string name="studentcard">studentcard</string>
+    <string name="gymcard">gymcard</string>
+    <string name="register_detail">register</string>
+    <string name="VISA_detail">VISA</string>
+    <string name="studentcard_detail">studentcard</string>
+    <string name="gymcard_detail">gymcard</string>
 </resources>

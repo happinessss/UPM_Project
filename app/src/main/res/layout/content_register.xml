@@ -37,7 +37,7 @@
                 android:gravity="center"
                 android:layout_centerHorizontal="true"
                 android:textSize="22sp"
-                android:text="register"
+                android:text="@string/register"
                 android:textStyle="bold"/>
 
         </RelativeLayout>
@@ -47,7 +47,7 @@
             android:layout_width="290dp"
             android:layout_height="120dp"
             android:textSize="20sp"
-            android:text="go to ETSI SISTEMAS INFORMATICOS and find teacher Mavi, she will ask you Fill in several forms.">
+            android:text="@string/register_detail">
 
         </TextView>
 

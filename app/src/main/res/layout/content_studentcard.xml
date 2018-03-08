@@ -37,7 +37,7 @@
                 android:gravity="center"
                 android:layout_centerHorizontal="true"
                 android:textSize="22sp"
-                android:text="student card"
+                android:text="@string/studentcard"
                 android:textStyle="bold"/>
 
         </RelativeLayout>
@@ -47,7 +47,7 @@
             android:layout_width="300dp"
             android:layout_height="140dp"
             android:textSize="20sp"
-            android:text="go to ETSI SISTEMAS INFORMATICOS and find teacher Mavi and tell she that you want a student card.Shw will give you the card maybe a week later.">
+            android:text="@string/studentcard_detail">
 
         </TextView>
 

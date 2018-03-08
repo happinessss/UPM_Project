@@ -37,7 +37,7 @@
                 android:gravity="center"
                 android:layout_centerHorizontal="true"
                 android:textSize="22sp"
-                android:text="gymcard"
+                android:text="@string/gymcard"
                 android:textStyle="bold"/>
 
         </RelativeLayout>
@@ -47,7 +47,7 @@
             android:layout_width="290dp"
             android:layout_height="120dp"
             android:textSize="20sp"
-            android:text="go to gym and find the staff and tell him or she that you want a gym card.">
+            android:text="@string/gymcard_detail">
 
         </TextView>
 

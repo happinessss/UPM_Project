@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UPM_Project</string>
+    <string name="guide">guide</string>
+    <string name="note">note</string>
+    <string name="register">register</string>
+    <string name="VISA">VISA</string>
+    <string name="studentcard">studentcard</string>
+    <string name="gymcard">gymcard</string>
+    <string name="register_detail">go to ETSI SISTEMAS INFORMATICOS and find teacher Mavi, she will ask you Fill in several forms.</string>
+    <string name="VISA_detail">go to Santander in campus and tell the staff that you want to get a bank card.</string>
+    <string name="studentcard_detail">go to ETSI SISTEMAS INFORMATICOS and find teacher Mavi and tell she that you want a student card.Shw will give you the card maybe a week later.</string>
+    <string name="gymcard_detail">go to gym and find the staff and tell him or she that you want a gym card.</string>
+    <string name="add">VISA</string>
+    <string name="VISA">VISA</string>
+    <string name="VISA">VISA</string>
+    <string name="VISA">VISA</string>
+    <string name="VISA">VISA</string>
+    <string name="VISA">VISA</string>
+</resources>

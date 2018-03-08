@@ -51,6 +51,10 @@
         <activity
             android:name=".guides.gymcard"
             android:label="@string/title_activity_gymcard"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Language"
+            android:label="@string/title_activity_language"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
