@@ -25,7 +25,7 @@
         <TextView
             android:layout_width="80dp"
             android:layout_height="match_parent"
-            android:text="title"
+            android:text="@string/title"
             android:textSize="26sp"
             android:gravity="center_vertical"/>
 
@@ -52,7 +52,7 @@
         <TextView
             android:layout_width="80dp"
             android:layout_height="match_parent"
-            android:text="detail"
+            android:text="@string/detail"
             android:textSize="26sp"
             android:gravity="top"
             />
@@ -85,7 +85,7 @@
         <Button
             android:layout_width="100dp"
             android:layout_height="80dp"
-            android:text="add photo"
+            android:text="@string/addphoto"
             android:textColor="#ffffff"
             android:textSize="20sp"
             android:background="@drawable/button_shape"
@@ -109,7 +109,7 @@
         android:layout_gravity="center_horizontal"
         android:background="@drawable/button_shape"
         android:textSize="20sp"
-        android:text="done"
+        android:text="@string/ok"
         android:textColor="#ffffff"
 
         />

@@ -31,7 +31,7 @@
                 android:layout_width="180dp"
                 android:layout_height="60dp"
                 android:background="@drawable/button_shape"
-                android:text="add"
+                android:text="@string/add"
                 android:id="@+id/formal_add"
                 android:textColor="#ffffff"
                 android:textSize="20sp"/>

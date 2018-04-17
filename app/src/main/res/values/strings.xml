@@ -1,14 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">UPM_Project</string>
-    <string name="guide">guide</string>
-    <string name="note">note</string>
-    <string name="register">register</string>
-    <string name="VISA">VISA</string>
-    <string name="studentcard">studentcard</string>
-    <string name="gymcard">gymcard</string>
-    <string name="register_detail">register</string>
-    <string name="VISA_detail">VISA</string>
-    <string name="studentcard_detail">studentcard</string>
-    <string name="gymcard_detail">gymcard</string>
+    <string name="guide">指南</string>
+    <string name="note">笔记</string>
+    <string name="register">注册</string>
+    <string name="VISA">银行卡</string>
+    <string name="studentcard">学生卡</string>
+    <string name="gymcard">健身卡</string>
+    <string name="register_detail">前往ETSI SISTEMAS INFORMATICOS找到老师Mavi，她会让你填写几张表格。</string>
+    <string name="VISA_detail">前往学校的antander银行，告诉职员你需要办一张存储卡。</string>
+    <string name="studentcard_detail">前往ETSI SISTEMAS INFORMATICOS找到老师Mavi，告诉她你想得到一张学生卡</string>
+    <string name="gymcard_detail">前往体育馆，告诉一楼的工作人员你想得到一张健身卡</string>
+    <string name="add">添加</string>
+    <string name="title">标题</string>
+    <string name="detail">详情</string>
+    <string name="addphoto">添加照片</string>
+    <string name="selectlanguage">选择语言</string>
+    <string name="ok">确定</string>
+    <string name="English">English</string>
+    <string name="Chinese">中文</string>
+
+    <string name="title_activity_formal">title_activity_formal</string>
+    <string name="title_activity_formal_item">title_activity_formal</string>
+    <string name="title_activity_formal_item_add">title_activity_formal</string>
+    <string name="title_activity_guide">title_activity_formal</string>
+    <string name="title_activity_register">title_activity_formal</string>
+    <string name="title_activity_vis">title_activity_formal</string>
+    <string name="title_activity_studentcard">title_activity_formal</string>
+    <string name="title_activity_gymcard">title_activity_formal</string>
+    <string name="title_activity_language">title_activity_formal</string>
 </resources>

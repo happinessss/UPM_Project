@@ -6,6 +6,6 @@
         android:id="@+id/language"
         android:orderInCategory="100"
         app:showAsAction="never"
-        android:title="select language"/>
+        android:title="@string/selectlanguage"/>
 
 </menu>
