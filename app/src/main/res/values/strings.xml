@@ -8,9 +8,9 @@
     <string name="studentcard">学生卡</string>
     <string name="gymcard">健身卡</string>
     <string name="register_detail">前往ETSI SISTEMAS INFORMATICOS找到老师Mavi，她会让你填写几张表格。</string>
-    <string name="VISA_detail">前往学校的antander银行，告诉职员你需要办一张存储卡。</string>
-    <string name="studentcard_detail">前往ETSI SISTEMAS INFORMATICOS找到老师Mavi，告诉她你想得到一张学生卡</string>
-    <string name="gymcard_detail">前往体育馆，告诉一楼的工作人员你想得到一张健身卡</string>
+    <string name="VISA_detail">前往学校的Santander银行，告诉职员你需要办一张存储卡。</string>
+    <string name="studentcard_detail">前往ETSI SISTEMAS INFORMATICOS找到老师Mavi，告诉她你想得到一张学生卡。</string>
+    <string name="gymcard_detail">前往体育馆，告诉一楼的工作人员你想得到一张健身卡。</string>
     <string name="add">添加</string>
     <string name="title">标题</string>
     <string name="detail">详情</string>
@@ -29,4 +29,5 @@
     <string name="title_activity_studentcard">title_activity_formal</string>
     <string name="title_activity_gymcard">title_activity_formal</string>
     <string name="title_activity_language">title_activity_formal</string>
+    <string name="title_activity_guide_item">GuideItem</string>
 </resources>
