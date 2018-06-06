@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="com.example.hushengyou.upm_project.FormalItemActivity"
+    tools:context="com.example.hushengyou.upm_project.NoteItemActivity"
     tools:showIn="@layout/activity_formal_item">
 
     <LinearLayout

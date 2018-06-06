@@ -21,15 +21,15 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".FormalActivity"
+            android:name=".NoteActivity"
             android:label="@string/title_activity_formal"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".FormalItemActivity"
+            android:name=".NoteItemActivity"
             android:label="@string/title_activity_formal_item"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".FormalItemAdd"
+            android:name=".NoteItemAdd"
             android:label="@string/title_activity_formal_item_add"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity

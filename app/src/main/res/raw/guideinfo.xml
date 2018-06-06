@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<guidelist>
+
+    <guide>
+        <title>register</title>
+        <detail>go to ETSI SISTEMAS INFORMATICOS and find teacher Mavi, she will ask you Fill in several forms.</detail>
+        <title_ch>注册</title_ch>
+        <detail_ch>前往ETSI SISTEMAS INFORMATICOS找到老师Mavi，她会让你填写几张表格</detail_ch>
+        <photo>school</photo>
+        <icon>formal</icon>
+    </guide>
+
+    <guide>
+        <title>VISA</title>
+        <detail>go to Santander in campus and tell the staff that you want to get a bank card.</detail>
+        <title_ch>银行卡</title_ch>
+        <detail_ch>前往学校的Santander银行，告诉职员你需要办一张存储卡。</detail_ch>
+        <photo>bank</photo>
+        <icon>formal</icon>
+    </guide>
+
+    <guide>
+        <title>student card</title>
+        <detail>go to ETSI SISTEMAS INFORMATICOS and find teacher Mavi and tell she that you want a student card.She will give you the card maybe a week later.avi, she will ask you Fill in several forms.</detail>
+        <title_ch>学生卡</title_ch>
+        <detail_ch>前往ETSI SISTEMAS INFORMATICOS找到老师Mavi，告诉她你想得到一张学生卡。</detail_ch>
+        <photo>school</photo>
+        <icon>informal</icon>
+    </guide>
+
+    <guide>
+        <title>school gym card</title>
+        <detail>go to gym and find the staff and tell him or she that you want a gym card.</detail>
+        <title_ch>学校健身卡</title_ch>
+        <detail_ch>前往体育馆，告诉一楼的工作人员你想得到一张健身卡。</detail_ch>
+        <photo>gym</photo>
+        <icon>informal</icon>
+    </guide>
+
+    <guide>
+        <title>outside gym card</title>
+        <detail>go to gym and find the staff and tell him or she that you want a gym card.</detail>
+        <title_ch>社区健身卡</title_ch>
+        <detail_ch>前往体育馆，告诉一楼的工作人员你想得到一张健身卡。</detail_ch>
+        <photo>gym</photo>
+        <icon>informal</icon>
+    </guide>
+
+    <guide>
+        <title>school library</title>
+        <detail>go to gym and find the staff and tell him or she that you want a gym card.</detail>
+        <title_ch>学校图书馆</title_ch>
+        <detail_ch>给一楼大厅的工作人员看你的学生卡，他就会让你进图书馆</detail_ch>
+        <photo>gym</photo>
+        <icon>informal</icon>
+    </guide>
+
+    <guide>
+        <title>community library</title>
+        <detail>go to gym and find the staff and tell him or she that you want a gym card.</detail>
+        <title_ch>社区图书馆</title_ch>
+        <detail_ch>给一楼大厅的工作人员看你的学生卡，他就会让你进图书馆</detail_ch>
+        <photo>gym</photo>
+        <icon>informal</icon>
+    </guide>
+
+    <guide>
+        <title>school restaurant</title>
+        <detail>go to gym and find the staff and tell him or she that you want a gym card.</detail>
+        <title_ch>学校餐厅</title_ch>
+        <detail_ch>前往体育馆，告诉一楼的工作人员你想得到一张健身卡。</detail_ch>
+        <photo>gym</photo>
+        <icon>informal</icon>
+    </guide>
+
+    <guide>
+        <title>looking for a house</title>
+        <detail>go to gym and find the staff and tell him or she that you want a gym card.</detail>
+        <title_ch>找房子</title_ch>
+        <detail_ch>前往体育馆，告诉一楼的工作人员你想得到一张健身卡。</detail_ch>
+        <photo>gym</photo>
+        <icon>informal</icon>
+    </guide>
+
+    <guide>
+        <title>shopping</title>
+        <detail>go to gym and find the staff and tell him or she that you want a gym card.</detail>
+        <title_ch>购物</title_ch>
+        <detail_ch>前往体育馆，告诉一楼的工作人员你想得到一张健身卡。</detail_ch>
+        <photo>gym</photo>
+        <icon>informal</icon>
+    </guide>
+
+    <guide>
+        <title>call the police</title>
+        <detail>go to gym and find the staff and tell him or she that you want a gym card.</detail>
+        <title_ch>报警</title_ch>
+        <detail_ch>前往体育馆，告诉一楼的工作人员你想得到一张健身卡。</detail_ch>
+        <photo>gym</photo>
+        <icon>informal</icon>
+    </guide>
+
+    <guide>
+        <title>school wifi</title>
+        <detail>go to gym and find the staff and tell him or she that you want a gym card.</detail>
+        <title_ch>学校wifi</title_ch>
+        <detail_ch>前往体育馆，告诉一楼的工作人员你想得到一张健身卡。</detail_ch>
+        <photo>gym</photo>
+        <icon>informal</icon>
+    </guide>
+
+    <guide>
+        <title>school computer room</title>
+        <detail>go to gym and find the staff and tell him or she that you want a gym card.</detail>
+        <title_ch>学校机房</title_ch>
+        <detail_ch>前往体育馆，告诉一楼的工作人员你想得到一张健身卡。</detail_ch>
+        <photo>gym</photo>
+        <icon>informal</icon>
+    </guide>
+
+    <guide>
+        <title>buy Chinese goods</title>
+        <detail>go to gym and find the staff and tell him or she that you want a gym card.</detail>
+        <title_ch>买中国商品</title_ch>
+        <detail_ch>前往体育馆，告诉一楼的工作人员你想得到一张健身卡。</detail_ch>
+        <photo>gym</photo>
+        <icon>informal</icon>
+    </guide>
+
+    <guide>
+        <title>traffic card</title>
+        <detail>go to gym and find the staff and tell him or she that you want a gym card.</detail>
+        <title_ch>交通卡</title_ch>
+        <detail_ch>前往体育馆，告诉一楼的工作人员你想得到一张健身卡。</detail_ch>
+        <photo>gym</photo>
+        <icon>informal</icon>
+    </guide>
+
+    <guide>
+        <title>copy documents</title>
+        <detail>go to gym and find the staff and tell him or she that you want a gym card.</detail>
+        <title_ch>复印文件</title_ch>
+        <detail_ch>前往体育馆，告诉一楼的工作人员你想得到一张健身卡。</detail_ch>
+        <photo>gym</photo>
+        <icon>informal</icon>
+    </guide>
+
+    <guide>
+        <title>print documents</title>
+        <detail>go to gym and find the staff and tell him or she that you want a gym card.</detail>
+        <title_ch>打印文件</title_ch>
+        <detail_ch>前往体育馆，告诉一楼的工作人员你想得到一张健身卡。</detail_ch>
+        <photo>gym</photo>
+        <icon>informal</icon>
+    </guide>
+
+    <guide>
+        <title>buy medicine</title>
+        <detail>go to gym and find the staff and tell him or she that you want a gym card.</detail>
+        <title_ch>买药</title_ch>
+        <detail_ch>前往体育馆，告诉一楼的工作人员你想得到一张健身卡。</detail_ch>
+        <photo>gym</photo>
+        <icon>informal</icon>
+    </guide>
+
+    <guide>
+        <title>SIM card</title>
+        <detail>go to gym and find the staff and tell him or she that you want a gym card.</detail>
+        <title_ch>手机卡</title_ch>
+        <detail_ch>前往体育馆，告诉一楼的工作人员你想得到一张健身卡。</detail_ch>
+        <photo>gym</photo>
+        <icon>informal</icon>
+    </guide>
+
+    <guide>
+        <title>call the ambulance</title>
+        <detail>go to gym and find the staff and tell him or she that you want a gym card.</detail>
+        <title_ch>叫救护车</title_ch>
+        <detail_ch>前往体育馆，告诉一楼的工作人员你想得到一张健身卡。</detail_ch>
+        <photo>gym</photo>
+        <icon>informal</icon>
+    </guide>
+
+
+</guidelist>
